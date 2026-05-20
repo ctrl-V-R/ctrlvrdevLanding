@@ -133,6 +133,7 @@ export default function InteractiveTerminal() {
   const inputRef = useRef<HTMLInputElement>(null)
 
   useEffect(() => {
+    if (history.length === 0) return
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' })
   }, [history])
 
