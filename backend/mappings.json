@@ -1,0 +1,7 @@
+[
+  {
+    "path_prefix": "/flowstate",
+    "upstream": "https://example-flowstate.amplifyapp.com",
+    "origin_path": "/"
+  }
+]

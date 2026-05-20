@@ -1,5 +1,3 @@
-# website
- html-website
+# ctrlvrdev.site's Landing Page
 
-This is the first website I built while just messing around
-    with a bit of html and css.
+Simple Landing page built to act as a Gateway to my Developer domain & Passion Projects.
