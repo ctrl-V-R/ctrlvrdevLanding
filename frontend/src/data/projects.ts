@@ -17,7 +17,7 @@ const projects: Project[] = [
     title: 'Flowstate',
     description: 'Realtime API Orchestrator',
     icon: Zap,
-    path: 'https://example-flowstate.amplifyapp.com', // TODO: replace with live URL
+    path: 'https://ctrlvrdev.site/flowstate',
     detail:
       'Flowstate is a real-time collaborative whiteboard and task-flow tool. It explores WebSocket-driven state sync, optimistic UI updates, and conflict-free editing between concurrent users.',
     stack: ['Vite', 'Python FastAPI', 'WebSockets', 'Tailwind CSS', 'Amazon DynamoDB', 'AWS Amplify', 'Render'],
